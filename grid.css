@@ -1,0 +1,15 @@
+#container {
+	background-color: black;
+	width: 960px;
+	height: 960px;
+	float:left;
+	margin-left:auto;
+	margin-right:auto;
+}
+
+#options {
+	float:left;
+	margin-left:10px;
+	margin-right:20px;
+	text-align: center;
+}
